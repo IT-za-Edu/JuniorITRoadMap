@@ -6,5 +6,5 @@
 * [Старинин Андрей]()
 
 ## На чём основано
-* [Teamlead Roadmap](https://github.com/tlbootcamp/tlroadmap) <https://tlroadmap.io/>
-* [Developer Roadmaps](https://github.com/kamranahmedse/developer-roadmap) <https://roadmap.sh/>
+* [Teamlead Roadmap](https://github.com/tlbootcamp/tlroadmap) | <https://tlroadmap.io/>
+* [Developer Roadmaps](https://github.com/kamranahmedse/developer-roadmap) | <https://roadmap.sh/>
