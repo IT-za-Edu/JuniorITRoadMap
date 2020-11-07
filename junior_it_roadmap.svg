@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     contentScriptType="application/ecmascript" contentStyleType="text/css" height="1091px" preserveAspectRatio="none"
+     style="width:1618px;height:1091px;" version="1.1" viewBox="0 0 1618 1091" width="1618px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="f14rcdvg5jjmie" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix"
+                           values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="147" x="608" y="526.6719"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="127"
+              x="618" y="549.667">Junior IT RoadMap
+        </text>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="74" x="805" y="20"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="54"
+              x="815" y="42.9951">Дизайн
+        </text>
+        <path d="M755,544.8203 L765,544.8203 C780,544.8203 780,38.1484 795,38.1484 L805,38.1484 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="156" x="805" y="76.2969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="132"
+              x="815" y="99.292">Тестирование ПО
+        </text>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="72" x="1011" y="20"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="52"
+              x="1021" y="42.9951">Ручное
+        </text>
+        <path d="M961,94.4453 L971,94.4453 C986,94.4453 986,38.1484 1001,38.1484 L1011,38.1484 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="164" x="1011" y="76.2969"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="144"
+              x="1021" y="99.292">Автотестирование
+        </text>
+        <path d="M961,94.4453 L971,94.4453 C986,94.4453 986,94.4453 1001,94.4453 L1011,94.4453 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="116" x="1011" y="132.5938"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="96"
+              x="1021" y="155.5889">Нагрузочное
+        </text>
+        <path d="M961,94.4453 L971,94.4453 C986,94.4453 986,150.7422 1001,150.7422 L1011,150.7422 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M755,544.8203 L765,544.8203 C780,544.8203 780,94.4453 795,94.4453 L805,94.4453 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="345" x="805" y="217.0391"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="325"
+              x="815" y="240.0342">Проектирование и администрирование БД
+        </text>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="48" x="1200" y="188.8906"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="28"
+              x="1210" y="211.8857">SQL
+        </text>
+        <path d="M1150,235.1875 L1160,235.1875 C1175,235.1875 1175,207.0391 1190,207.0391 L1200,207.0391 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="67" x="1200" y="245.1875"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="47"
+              x="1210" y="268.1826">NoSQL
+        </text>
+        <path d="M1150,235.1875 L1160,235.1875 C1175,235.1875 1175,263.3359 1190,263.3359 L1200,263.3359 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M755,544.8203 L765,544.8203 C780,544.8203 780,235.1875 795,235.1875 L805,235.1875 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="132" x="805" y="667.4141"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="112"
+              x="815" y="690.4092">Разработка ПО
+        </text>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="271" x="987" y="357.7813"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="251"
+              x="997" y="380.7764">Первый язык программирования
+        </text>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="71" x="1308" y="301.4844"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="51"
+              x="1318" y="324.4795">Python
+        </text>
+        <path d="M1258,375.9297 L1268,375.9297 C1283,375.9297 1283,319.6328 1298,319.6328 L1308,319.6328 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="67" x="1308" y="357.7813"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="47"
+              x="1318" y="380.7764">C/C++
+        </text>
+        <path d="M1258,375.9297 L1268,375.9297 C1283,375.9297 1283,375.9297 1298,375.9297 L1308,375.9297 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="67" x="1308" y="414.0781"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="47"
+              x="1318" y="437.0732">Scrath
+        </text>
+        <path d="M1258,375.9297 L1268,375.9297 C1283,375.9297 1283,432.2266 1298,432.2266 L1308,432.2266 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M937,685.5625 L947,685.5625 C962,685.5625 962,375.9297 977,375.9297 L987,375.9297 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="237" x="987" y="751.8594"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="217"
+              x="997" y="774.8545">Направления разработки ПО
+        </text>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="53" x="1274" y="554.8203"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="33"
+              x="1284" y="577.8154">Web
+        </text>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="86" x="1377" y="526.6719"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="66"
+              x="1387" y="549.667">FrontEnd
+        </text>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="54" x="1513" y="470.375"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="34"
+              x="1523" y="493.3701">html
+        </text>
+        <path d="M1463,544.8203 L1473,544.8203 C1488,544.8203 1488,488.5234 1503,488.5234 L1513,488.5234 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="42" x="1513" y="526.6719"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="22"
+              x="1523" y="549.667">css
+        </text>
+        <path d="M1463,544.8203 L1473,544.8203 C1488,544.8203 1488,544.8203 1503,544.8203 L1513,544.8203 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="31" x="1513" y="582.9688"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="11"
+              x="1523" y="605.9639">js
+        </text>
+        <path d="M1463,544.8203 L1473,544.8203 C1488,544.8203 1488,601.1172 1503,601.1172 L1513,601.1172 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M1327,572.9688 L1337,572.9688 C1352,572.9688 1352,544.8203 1367,544.8203 L1377,544.8203 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="82" x="1377" y="639.2656"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="62"
+              x="1387" y="662.2607">BackEnd
+        </text>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="49" x="1509" y="639.2656"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="29"
+              x="1519" y="662.2607">php
+        </text>
+        <path d="M1459,657.4141 L1469,657.4141 C1484,657.4141 1484,657.4141 1499,657.4141 L1509,657.4141 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M1327,572.9688 L1337,572.9688 C1352,572.9688 1352,657.4141 1367,657.4141 L1377,657.4141 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M1224,770.0078 L1234,770.0078 C1249,770.0078 1249,572.9688 1264,572.9688 L1274,572.9688 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="90" x="1274" y="780.0078"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="70"
+              x="1284" y="803.0029">Descktop
+        </text>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="83" x="1414" y="723.7109"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="63"
+              x="1424" y="746.7061">Windows
+        </text>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="42" x="1547" y="695.5625"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="22"
+              x="1557" y="718.5576">C#
+        </text>
+        <path d="M1497,741.8594 L1507,741.8594 C1522,741.8594 1522,713.7109 1537,713.7109 L1547,713.7109 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="52" x="1547" y="751.8594"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="32"
+              x="1557" y="774.8545">C++
+        </text>
+        <path d="M1497,741.8594 L1507,741.8594 C1522,741.8594 1522,770.0078 1537,770.0078 L1547,770.0078 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M1364,798.1563 L1374,798.1563 C1389,798.1563 1389,741.8594 1404,741.8594 L1414,741.8594 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="57" x="1414" y="808.1563"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="37"
+              x="1424" y="831.1514">Linux
+        </text>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="52" x="1521" y="808.1563"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="32"
+              x="1531" y="831.1514">C++
+        </text>
+        <path d="M1471,826.3047 L1481,826.3047 C1496,826.3047 1496,826.3047 1511,826.3047 L1521,826.3047 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M1364,798.1563 L1374,798.1563 C1389,798.1563 1389,826.3047 1404,826.3047 L1414,826.3047 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="68" x="1414" y="864.4531"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="48"
+              x="1424" y="887.4482">MacOS
+        </text>
+        <path d="M1364,798.1563 L1374,798.1563 C1389,798.1563 1389,882.6016 1404,882.6016 L1414,882.6016 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M1224,770.0078 L1234,770.0078 C1249,770.0078 1249,798.1563 1264,798.1563 L1274,798.1563 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="90" x="1274" y="836.3047"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="70"
+              x="1284" y="859.2998">GameDev
+        </text>
+        <path d="M1224,770.0078 L1234,770.0078 C1249,770.0078 1249,854.4531 1264,854.4531 L1274,854.4531 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="68" x="1274" y="977.0469"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="48"
+              x="1284" y="1000.042">Mobile
+        </text>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="76" x="1392" y="948.8984"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56"
+              x="1402" y="971.8936">Android
+        </text>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="48" x="1518" y="920.75"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="28"
+              x="1528" y="943.7451">Java
+        </text>
+        <path d="M1468,967.0469 L1478,967.0469 C1493,967.0469 1493,938.8984 1508,938.8984 L1518,938.8984 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="63" x="1518" y="977.0469"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="43"
+              x="1528" y="1000.042">Kotlin
+        </text>
+        <path d="M1468,967.0469 L1478,967.0469 C1493,967.0469 1493,995.1953 1508,995.1953 L1518,995.1953 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M1342,995.1953 L1352,995.1953 C1367,995.1953 1367,967.0469 1382,967.0469 L1392,967.0469 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="44" x="1392" y="1033.3438"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="24"
+              x="1402" y="1056.3389">iOS
+        </text>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="57" x="1486" y="1033.3438"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="37"
+              x="1496" y="1056.3389">Swift
+        </text>
+        <path d="M1436,1051.4922 L1446,1051.4922 C1461,1051.4922 1461,1051.4922 1476,1051.4922 L1486,1051.4922 "
+              fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M1342,995.1953 L1352,995.1953 C1367,995.1953 1367,1051.4922 1382,1051.4922 L1392,1051.4922 "
+              fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M1224,770.0078 L1234,770.0078 C1249,770.0078 1249,995.1953 1264,995.1953 L1274,995.1953 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M937,685.5625 L947,685.5625 C962,685.5625 962,770.0078 977,770.0078 L987,770.0078 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M755,544.8203 L765,544.8203 C780,544.8203 780,685.5625 795,685.5625 L805,685.5625 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="76" x="482" y="526.6719"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56"
+              x="492" y="549.667">Навыки
+        </text>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="195" x="237" y="385.9297"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="175"
+              x="247" y="408.9248">Командная разработка
+        </text>
+        <path d="M482,544.8203 L472,544.8203 C457,544.8203 457,404.0781 442,404.0781 L432,404.0781 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="188" x="244" y="442.2266"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="168"
+              x="254" y="465.2217">Управление версиями
+        </text>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="42" x="152" y="414.0781"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="22"
+              x="162" y="437.0732">Git
+        </text>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="70" x="32" y="357.7813"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="50"
+              x="42" y="380.7764">GitHub
+        </text>
+        <path d="M152,432.2266 L142,432.2266 C127,432.2266 127,375.9297 112,375.9297 L102,375.9297 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="68" x="34" y="414.0781"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="48"
+              x="44" y="437.0732">GitLab
+        </text>
+        <path d="M152,432.2266 L142,432.2266 C127,432.2266 127,432.2266 112,432.2266 L102,432.2266 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="92" x="10" y="470.375"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="72"
+              x="20" y="493.3701">Bitbucket
+        </text>
+        <path d="M152,432.2266 L142,432.2266 C127,432.2266 127,488.5234 112,488.5234 L102,488.5234 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M244,460.375 L234,460.375 C219,460.375 219,432.2266 204,432.2266 L194,432.2266 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="85" x="109" y="526.6719"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="65"
+              x="119" y="549.667">Mercurial
+        </text>
+        <path d="M244,460.375 L234,460.375 C219,460.375 219,544.8203 204,544.8203 L194,544.8203 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M482,544.8203 L472,544.8203 C457,544.8203 457,460.375 442,460.375 L432,460.375 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="197" x="235" y="639.2656"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="177"
+              x="245" y="662.2607">Управление проектами
+        </text>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="56" x="129" y="582.9688"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="36"
+              x="139" y="605.9639">Agile
+        </text>
+        <path d="M235,657.4141 L225,657.4141 C210,657.4141 210,601.1172 195,601.1172 L185,601.1172 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="65" x="120" y="639.2656"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="45"
+              x="130" y="662.2607">Scrum
+        </text>
+        <path d="M235,657.4141 L225,657.4141 C210,657.4141 210,657.4141 195,657.4141 L185,657.4141 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <rect fill="#FEFECE" filter="url(#f14rcdvg5jjmie)" height="36.2969" rx="12.5" ry="12.5"
+              style="stroke: #A80036; stroke-width: 1.5;" width="74" x="111" y="695.5625"/>
+        <text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="54"
+              x="121" y="718.5576">Kanban
+        </text>
+        <path d="M235,657.4141 L225,657.4141 C210,657.4141 210,713.7109 195,713.7109 L185,713.7109 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M482,544.8203 L472,544.8203 C457,544.8203 457,657.4141 442,657.4141 L432,657.4141 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M608,544.8203 L598,544.8203 C583,544.8203 583,544.8203 568,544.8203 L558,544.8203 " fill="none"
+              style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[dada6e139c3f13b19833512b512947fc]
+@startmindmap Junior IT RoadMap
++ Junior IT RoadMap
+++ Дизайн
+++ Тестирование ПО 
++++ Ручное
++++ Автотестирование
++++ Нагрузочное
+++ Проектирование и администрирование БД
++++ SQL
++++ NoSQL
+++ Разработка ПО
++++ Первый язык программирования
+++++ Python
+++++ C/C++
+++++ Scrath
++++ Направления разработки ПО
+++++ Web
++++++ FrontEnd
+++++++ html
+++++++ css
+++++++ js
++++++ BackEnd
+++++++ php
+++++ Descktop
++++++ Windows
+++++++ C#
+++++++ C++
++++++ Linux
+++++++ C++
++++++ MacOS
+++++ GameDev
+++++ Mobile
++++++ Android
+++++++ Java
+++++++ Kotlin
++++++ iOS
+++++++ Swift
+- - Навыки
+- - - Командная разработка
+- - - Управление версиями
+- - - - Git
+- - - - - GitHub
+- - - - - GitLab
+- - - - - Bitbucket
+- - - - Mercurial
+- - - Управление проектами
+- - - - Agile
+- - - - Scrum
+- - - - Kanban
+@endmindmap
+
+PlantUML version 1.2020.20beta13(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+-->
+    </g>
+</svg>
