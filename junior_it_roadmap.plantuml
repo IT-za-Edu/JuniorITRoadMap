@@ -1,0 +1,50 @@
+@startmindmap Junior IT RoadMap
++ Junior IT RoadMap
+++ Дизайн
+++ Тестирование ПО 
++++ Ручное
++++ Автотестирование
++++ Нагрузочное
+++ Проектирование и администрирование БД
++++ SQL
++++ NoSQL
+++ Разработка ПО
++++ Первый язык программирования
+++++ Python
+++++ C/C++
+++++ Scrath
++++ Направления разработки ПО
+++++ Web
++++++ FrontEnd
+++++++ html
+++++++ css
+++++++ js
++++++ BackEnd
+++++++ php
+++++ Descktop
++++++ Windows
+++++++ C#
+++++++ C++
++++++ Linux
+++++++ C++
++++++ MacOS
+++++ GameDev
+++++ Mobile
++++++ Android
+++++++ Java
+++++++ Kotlin
++++++ iOS
+++++++ Swift
+-- Навыки
+--- Командная разработка
+--- Управление версиями
+---- Git
+----- GitHub
+----- GitLab
+----- Bitbucket
+---- Mercurial
+--- Управление проектами
+---- Agile
+---- Scrum
+---- Kanban
+@endmindmap
